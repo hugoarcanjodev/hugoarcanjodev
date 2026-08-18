@@ -37,13 +37,6 @@ I'm currently focused on data analytics, supply chain performance, and backend s
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hugoarcanjodev&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hugoarcanjodev&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 ## Featured Projects
-
 * **[supply-chain-kpi-analyzer](https://github.com/hugoarcanjodev)**: Analytical workflows and data pipelines focused on operational bottlenecks and KPI tracking for fulfillment processes.
 * **[logistics-process-automation](https://github.com/hugoarcanjodev)**: Python utility scripts designed to automate spreadsheet data processing and inventory tracking.
