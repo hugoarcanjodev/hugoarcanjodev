@@ -38,5 +38,5 @@ I'm currently focused on data analytics, supply chain performance, and backend s
 ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
 
 ## Featured Projects
-* **[supply-chain-kpi-analyzer](https://github.com/hugoarcanjodev)**: Analytical workflows and data pipelines focused on operational bottlenecks and KPI tracking for fulfillment processes.
-* **[logistics-process-automation](https://github.com/hugoarcanjodev)**: Python utility scripts designed to automate spreadsheet data processing and inventory tracking.
+* **[supply-chain-kpi-analyzer](https://github.com/hugoarcanjodev/supply-chain-kpi-analyzer)**: Analytical workflows and data pipelines focused on operational bottlenecks and KPI tracking for fulfillment processes.
+* **[logistics-process-automation](https://github.com/hugoarcanjodev/logistics-process-automation)**: Python utility scripts designed to automate spreadsheet data processing and inventory tracking.
