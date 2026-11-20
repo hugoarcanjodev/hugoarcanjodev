@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hugo Arcanjo 👋</h1>
 
 <p align="center">
-  <b>Logistics & Operations Leader</b><br>
+  <b>Logistics & Operations</b><br>
   Fulfillment · Supply Chain · Team Leadership · Data-Driven Execution
 </p>
 
@@ -14,7 +14,7 @@
 
 ## 👨‍💼 About Me
 
-I lead fulfillment and logistics operations and use data and automation to make them run better. I'm currently a **Logistics Operations Lead at Amazon**, and previously worked in high-volume cross-docking at Shopee. Alongside operations, I spent over a decade as a freelance systems and process automation specialist, building workflows, relational databases and reporting dashboards.
+I work at fulfillment and logistics operations and use data and automation to make them run better. I'm currently a **Logistics Operations Assistant at Amazon**. Alongside operations, I spent over a decade as a freelance systems and process automation specialist, building workflows, relational databases and reporting dashboards.
 
 I'm pursuing a **B.Eng. in Industrial Engineering** (Univesp) and hold an **MBA in Strategic Management of Production and Distribution Administration** (Faculdade Focus).
 
